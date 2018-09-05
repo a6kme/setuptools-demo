@@ -5,4 +5,5 @@ setuptools_demo/add.py
 setuptools_demo.egg-info/PKG-INFO
 setuptools_demo.egg-info/SOURCES.txt
 setuptools_demo.egg-info/dependency_links.txt
+setuptools_demo.egg-info/requires.txt
 setuptools_demo.egg-info/top_level.txt
